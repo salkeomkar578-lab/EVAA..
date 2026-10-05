@@ -1,0 +1,12 @@
+# Core Vision & AI
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# Hardware & I2C Servo Control (Raspberry Pi / Blinka)
+adafruit-blinka>=8.0.0
+adafruit-circuitpython-pca9685>=3.4.0
+adafruit-circuitpython-motor>=3.4.0
+
+# Note on Raspberry Pi OS (Bookworm / Bullseye 64-bit):
+# picamera2 and libcamera are pre-installed system packages or installed via:
+# sudo apt update && sudo apt install -y python3-picamera2 python3-libcamera
