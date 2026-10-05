@@ -1,4 +1,4 @@
-# EVAA: Bio-Mimetic Autonomous Humanoid Vision & Face-Tracking Companion
+# EVAA: Low-Cost Plug-and-Play Modular Service Robot for Smart Hospitality, Retail & Financial Services. 
 
 [![Platform](https://img.shields.io/badge/Platform-Raspberry%20Pi%204%20%2F%205-C51A4A.svg?logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.com/)
 [![Vision](https://img.shields.io/badge/Computer%20Vision-OpenCV%20DNN%20YuNet%20%2B%20SFace-5C3EE8.svg?logo=opencv&logoColor=white)](https://opencv.org/)
