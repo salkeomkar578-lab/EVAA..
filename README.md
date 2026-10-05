@@ -30,8 +30,7 @@ The compiled companion application for Android is available for direct installat
 4. [Computer Vision and Pretrained Weights](#computer-vision-and-pretrained-weights)
 5. [Embedded Setup and Deployment Guide](#embedded-setup-and-deployment-guide)
 6. [Calibration and Diagnostic Verification](#calibration-and-diagnostic-verification)
-7. [Smart India Hackathon (SIH) Technical Assessment](#smart-india-hackathon-sih-technical-assessment)
-8. [License and Team](#license-and-team)
+7. [License and Team](#license-and-team)
 
 ---
 
