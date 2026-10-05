@@ -264,15 +264,6 @@ The robot will acquire detected faces, calculate pixel offset errors from image 
 
 ---
 
-## Smart India Hackathon (SIH) Technical Assessment
-
-| Evaluation Dimension | Engineering Implementation | Measurable Metric |
-| :--- | :--- | :--- |
-| **Kinematic Fidelity** | Decoupled dual-tier gaze control separating low-inertia eye saccades from damped high-inertia neck motion. | Sub-30ms saccadic response; smooth neck velocity damping (65°/s pan, 55°/s tilt). |
-| **Edge Compute Efficiency** | Lightweight ONNX inference executing on CPU via OpenCV DNN. | 45 FPS continuous tracking pipeline on a stock Raspberry Pi 4 without hardware accelerators. |
-| **Data Privacy & Compliance** | Fully on-premise execution; biometric vectors and video arrays never exit the device memory. | Zero external network calls required for core tracking and facial identification. |
-| **Manufacturing Economy** | Standard 3D-printable or laser-cut chassis paired with off-the-shelf COTS electronics. | Total hardware bill of materials (BOM) under ₹6,500 (~$80 USD). |
-| **Operator Experience** | Native cross-platform Flutter client for tele-operation, status monitoring, and mode switching. | Sub-50ms WebSocket telemetry latency; pre-built release APK provided. |
 
 ---
 
